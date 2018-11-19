@@ -1,0 +1,10 @@
+F:\Dropbox\Schlapphut-Projekt\Software\Windows\KmlConverter\KmlConverter\bin\Release\KmlConverter.exe.config
+F:\Dropbox\Schlapphut-Projekt\Software\Windows\KmlConverter\KmlConverter\bin\Release\KmlConverter.exe
+F:\Dropbox\Schlapphut-Projekt\Software\Windows\KmlConverter\KmlConverter\bin\Release\KmlConverter.pdb
+F:\Dropbox\Schlapphut-Projekt\Software\Windows\KmlConverter\KmlConverter\bin\Release\SharpKml.Core.dll
+F:\Dropbox\Schlapphut-Projekt\Software\Windows\KmlConverter\KmlConverter\bin\Release\SharpKml.Core.xml
+F:\Dropbox\Schlapphut-Projekt\Software\Windows\KmlConverter\KmlConverter\obj\Release\KmlConverter.csprojAssemblyReference.cache
+F:\Dropbox\Schlapphut-Projekt\Software\Windows\KmlConverter\KmlConverter\obj\Release\KmlConverter.csproj.CoreCompileInputs.cache
+F:\Dropbox\Schlapphut-Projekt\Software\Windows\KmlConverter\KmlConverter\obj\Release\KmlConverter.csproj.CopyComplete
+F:\Dropbox\Schlapphut-Projekt\Software\Windows\KmlConverter\KmlConverter\obj\Release\KmlConverter.exe
+F:\Dropbox\Schlapphut-Projekt\Software\Windows\KmlConverter\KmlConverter\obj\Release\KmlConverter.pdb

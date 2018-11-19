@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Schlapphut</string>
+    <string name="action_settings">Settings</string>
+    <string name="verbinde_mit_waln">Verbinde mit Wlan</string>
+    <string name="client_connect">Verbinde mit Server</string>
+    <string name="track_list">Track-Liste</string>
+    <string name="point_list">Point-Liste</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="lines">Lines</string>
+    <string name="Files">Files</string>
+    <string name="download">Download</string>
+    <string name="removeTrackFiles"> Remove Track Files</string>
+    <string name="removePointFiles"> Remove Point Files</string>
+    <string name="betriebsmodusPointAktivieren">Betriebsmodus \"Point\" in der Hardware aktivieren</string>
+    <string name="pointSpeichern">Einen Point nach \"x-Mal\" aufwachen der Hardware abspeichern</string>
+    <string name="schlafenNachLimaAus">Lichtmaschine muss \"x-Sekunden\" aus sein, bis Hardware schlafen geht</string>
+</resources>

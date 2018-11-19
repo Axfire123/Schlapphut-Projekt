@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>..\SharpKml.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <EmbeddedResource Include="Engine\Data\Bounds.kml" />
+    <EmbeddedResource Include="Engine\Data\Doc.kmz" />
+    <EmbeddedResource Include="Engine\Data\Entities.kml" />
+    <EmbeddedResource Include="Engine\Data\Entity Data.kml" />
+    <EmbeddedResource Include="Engine\Data\Links.kml" />
+    <EmbeddedResource Include="Engine\Data\MultiKml.kmz" />
+    <EmbeddedResource Include="Engine\Data\NoKml.kmz" />
+    <EmbeddedResource Include="Engine\Data\Schema Data.kml" />
+    <EmbeddedResource Include="Engine\Data\Style Data.kml" />
+    <EmbeddedResource Include="Engine\Data\Style Output.kml" />
+    <EmbeddedResource Include="Engine\Data\Update.kml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SharpKml\SharpKml.Core.csproj" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.3.0" />
+    <PackageReference Include="NUnit" Version="3.8.1" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.9.0" />
+  </ItemGroup>
+</Project>
